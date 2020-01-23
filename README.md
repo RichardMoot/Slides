@@ -9,7 +9,7 @@ Slides for some selected presentations, some old, some new. As is usual, these s
 
 * [Towards a computational analysis of debates](NASSLLI2016.pdf), invited talk at the NASSLLI 2016 workshop on compositionality in semantics, talking about theories of meaning, wide-coverage semantics and the computational analysis of debates in the context of the [AREN](http://www.lirmm.fr/aren/) project.
 
-* [Extending lambda grammars](OSU2016lambda.pdf), invited talk at the Ohio State University in 2016, about lambda grammars and their extensions (including hybrid type-logical grammars and first-order linear logic) and descriptive adequacy. 
+* [Extending lambda grammars](OSU2016lambda.pdf), invited talk at the Ohio State University in 2016, about lambda grammars, their extensions (including hybrid type-logical grammars and first-order linear logic), and descriptive adequacy. 
 
 * [Semantics and computability](cie_slides.pdf), talk at the 2016 Computability in Europe conference about computability and natural language semantics (join work with [Christian Retoré](https://www.lirmm.fr/~retore/)).
 
