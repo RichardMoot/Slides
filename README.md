@@ -9,5 +9,7 @@ Slides for some of selected presentations, some old, some new. As is usual, thes
 
 * [Towards a computational analysis of debates](NASSLLI2016.pdf), invited talk at the NASSLLI 2016 workshop on compositionality in semantics, talking about theories of meaning, wide-coverage semantics and the computational analysis of debates in the context of the [AREN](http://www.lirmm.fr/aren/) project.
 
-* [Logic and topology](LogicAndTopology), and older talk about logic and topology in the context of the [Itipy](https://richardmoot.github.io/Itipy/) project, talking notably the logic S4u (the modal logic S4 with a universal modality, denoting true in all worlds).
+* [Semantics and computability](cie_slides.pdf), talk at the 2016 Computability in Europe conference about computability and natural language semantics.
+
+* [Logic and topology](LogicAndTopology.pdf), and older talk about logic and topology in the context of the [Itipy](https://richardmoot.github.io/Itipy/) project, talking notably the logic S4u (the modal logic S4 with a universal modality, denoting true in all worlds).
 
