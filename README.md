@@ -3,6 +3,8 @@ Slides for some selected presentations, some old, some new. As is usual, these s
 
 * [Supergrover or reconciling vectors and proofs](WoLLIC2019.pdf), invited talk at the [WoLLIC 2019](https://wollic2019.sites.uu.nl) workshop on compositionality in formal and distributional semantics. Discusses deep learning, supertagging and vector representations for words.
 
+* [Proof theoretic aspects of hybrid type-logical grammars](htlg_slides.pdf), joint work with Symon-Jory Stevens Guile investigating the proof theoretic foundations of hybrid type-logical grammars, notably introducing proof nets for the calculus. Contributed talk at the [FG 2019](http://fg.phil.hhu.de/2019/) conference.
+
 * [First-order linear logic for natural language analysis](Stockholm2017), invited talk at the workshop on [Logic and Algorithms for Computational Linguistics](http://staff.math.su.se/rloukanova/LACompLing17.html) in Stockholm, 2017, about first-order linear logic as a general framework for language modelling and parsing.
 
 * [Wide coverage semantics](WCS_Dusseldorf.pdf), talk in Düsseldorf about wide-coverage semantics using type-logical grammars, one of the first presentations of [Grail Light](https://richardmoot.github.io/GrailLight) with the deep learning component ([DeepGrail](https://richardmoot.github.io/DeepGrail)); also has some discussion about the difference between type-logical grammars and combinatory categorial grammars.
