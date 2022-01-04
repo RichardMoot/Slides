@@ -1,6 +1,8 @@
 # Slides and Presentations
 Slides for some selected presentations, some old, some new. As is usual, these slides serve as support for talks I have given on different occasions, and they have not really been designed as stand-alone reading material. However, feel free to contact me with any remarks or questions about these slides.
 
+* [Graph rewriting as a universal proof theory for modern type-logical grammars](LACompLing.pdf), keynote talk at [LACompLing2021](https://staff.math.su.se/rloukanova/LACompLing2021-web/).
+
 * [Supergrover or reconciling vectors and proofs](WoLLIC2019.pdf), invited talk at the [WoLLIC 2019](https://wollic2019.sites.uu.nl) workshop on compositionality in formal and distributional semantics. Discusses deep learning, supertagging and vector representations for words.
 
 * [Proof theoretic aspects of hybrid type-logical grammars](htlg_slides.pdf), joint work with Symon-Jory Stevens Guile investigating the proof theoretic foundations of hybrid type-logical grammars, notably introducing proof nets for the calculus. Contributed talk at the [FG 2019](http://fg.phil.hhu.de/2019/) conference.
